@@ -8,3 +8,4 @@ var snake;
 var snakeSize = 10;
 var food;
 var direction;
+var gameloop;
