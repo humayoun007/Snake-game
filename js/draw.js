@@ -1,8 +1,6 @@
 
 var drawModule = (function(){
   
-  var gameloop;
-  
   var bodySnake = function(x, y) {
         // This is the single square
         ctx.fillStyle = 'green';
